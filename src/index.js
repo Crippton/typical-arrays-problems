@@ -12,7 +12,9 @@ exports.min = function min(array) {
     }
 
     return result;
-}
+}  
+
+
 
 exports.max = function max(array) {
     let result = 0;
